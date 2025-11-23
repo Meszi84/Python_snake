@@ -86,7 +86,7 @@ A kész alkalmazást a létrejövő **`dist`** mappában találod.
 
 1.  Ha van már GitHub repód, hozz létre benne egy **`README.md`** nevű fájlt.
 2.  Másold bele a fenti szöveget.
-3.  Ahol látod a `[Meszi84]` vagy `https://github.com/Meszi84/...` részeket, írd át a sajátodra.
+3.  Ahol látod a `[NAME]` vagy `https://github.com/NAME/...` részeket, írd át a sajátodra.
 4.  Ha nincs ikonod, töröld ki a parancsból a `--icon=snake.ico` részt.
 
 Sok sikert a projekthez a GitHubon! 🚀
